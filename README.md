@@ -53,7 +53,7 @@ I love to combine logical problem solving with creativity! My goal is to develop
 </p><br>
 
 # 📚 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aoverko&title_color=8d9d72&text_color=ffffff&theme=transparent&show_icons=true&icon_color=c5b592&rank_icon=percentile&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)<br/>
+![](https://github-readme-stats.shion.dev/api?username=aoverko&title_color=8d9d72&text_color=c5b592&theme=transparent&show_icons=true&icon_color=c5b592&rank_icon=percentile&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aoverko&title_color=8d9d72&text_color=ffffff&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aoverko&title_color=8d9d72&text_color=c5b592&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
