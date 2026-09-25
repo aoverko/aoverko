@@ -19,7 +19,7 @@ I love to combine logical problem solving with creativity! My goal is to develop
 🌱 &nbsp;I'm currently learning about **LLMS and Generative AI**  
 ⚡ &nbsp;Fun fact: **I've displayed artwork in a gallery exhibition**
 
-### 🛠️ Tech Stack
+### 📔 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,7 +40,7 @@ I love to combine logical problem solving with creativity! My goal is to develop
   <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)" alt="Affinity Designer"/>   
 </p>
 
-### 🔗 Connect With Me
+### 👋 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ariana-overko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
