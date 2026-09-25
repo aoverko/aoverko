@@ -49,8 +49,8 @@ I love to combine logical problem solving with creativity! My goal is to develop
 </p><br><br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=c5b592&authorColor=8d9d72&symbolColor=8d9d72" alt="Dev quote" />
-</p><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=false&backgroundColor=00000000&quoteColor=c5b592&authorColor=8d9d72&symbolColor=8d9d72" alt="Dev quote" />
+</p>
 
 # 📚 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aoverko&title_color=8d9d72&text_color=c5b592&theme=transparent&show_icons=true&icon_color=c5b592&rank_icon=percentile&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)<br/>
