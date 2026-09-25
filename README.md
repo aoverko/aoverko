@@ -46,13 +46,14 @@ I love to combine logical problem solving with creativity! My goal is to develop
   <a href="https://www.linkedin.com/in/ariana-overko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://aoverko.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:aoverko@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p><br><br>
+</p><br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=false&backgroundColor=00000000&quoteColor=c5b592&authorColor=8d9d72&symbolColor=8d9d72" alt="Dev quote" />
+### 📜 Quote of the Day
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=00000000&quoteColor=c5b592&authorColor=8d9d72&symbolColor=8d9d72" alt="Dev quote" />
 </p>
 
-# 📚 GitHub Stats:
+## 📚 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aoverko&title_color=8d9d72&text_color=c5b592&theme=transparent&show_icons=true&icon_color=c5b592&rank_icon=percentile&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aoverko&title_color=8d9d72&text_color=c5b592&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
